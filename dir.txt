@@ -1,3 +1,16 @@
 portalweb
-content
+portal
+web
 src
+source
+login
+administrativo
+administracao
+administration
+access
+acesso
+content
+conteudo
+cgi-bin
+servicos
+services
