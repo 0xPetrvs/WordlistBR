@@ -40,6 +40,9 @@ corporativo
 access
 acesso
 acessoainformacao
+informacao
+privado
+exclusivo
 content
 conteudo
 cgi-bin
